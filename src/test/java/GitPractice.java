@@ -12,3 +12,4 @@ public class GitPractice {
 }
 //change the status
 // i love my india
+// hello everyone
