@@ -1,7 +1,7 @@
-
+import org.testng.annotations.Test;
 
 public class GitPracticetest {
-	
+	@Test
 	public void practice1Test1()
 	{
 		String BROWSER = System.getProperty("browser");
