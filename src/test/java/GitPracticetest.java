@@ -1,6 +1,6 @@
 
 
-public class GitPractice {
+public class GitPracticetest {
 	
 	public void practice1Test1()
 	{
@@ -10,12 +10,7 @@ public class GitPractice {
 	}
 
 }
-//siddharth malhotra
-//change the status
-// i love my india
-// hello everyone
-//rupesh
-//shandilya
+
 //RUPESH
 //RITESH
 //SHANDILYA
